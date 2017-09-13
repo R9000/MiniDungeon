@@ -1,0 +1,18 @@
+Wooden Sword
+2
+1
+Steel Longsword
+4
+1
+Titanium Battleaxe
+6
+1
+Leather Chestplate
+1
+2
+Ringmail Vest
+1
+4
+Steel Armour
+1
+6
